@@ -13,6 +13,7 @@
 		CE334B752BF64728009E1EF9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE334B732BF64728009E1EF9 /* Main.storyboard */; };
 		CE334B772BF6472B009E1EF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE334B762BF6472B009E1EF9 /* Assets.xcassets */; };
 		CE334B7A2BF6472B009E1EF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE334B782BF6472B009E1EF9 /* LaunchScreen.storyboard */; };
+		CE54DB3B2BFF80A8005C20D6 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE54DB3A2BFF80A8005C20D6 /* DetailViewController.swift */; };
 		CEB1B5B12BF7317300C74B00 /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEB1B5A72BF7317300C74B00 /* nssl0049.jpg */; };
 		CEB1B5B22BF7317300C74B00 /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEB1B5A82BF7317300C74B00 /* nssl0046.jpg */; };
 		CEB1B5B32BF7317300C74B00 /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEB1B5A92BF7317300C74B00 /* nssl0091.jpg */; };
@@ -34,6 +35,7 @@
 		CE334B762BF6472B009E1EF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE334B792BF6472B009E1EF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE334B7B2BF6472B009E1EF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE54DB3A2BFF80A8005C20D6 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		CEB1B5A72BF7317300C74B00 /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
 		CEB1B5A82BF7317300C74B00 /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
 		CEB1B5A92BF7317300C74B00 /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				CE334B6D2BF64728009E1EF9 /* AppDelegate.swift */,
 				CE334B6F2BF64728009E1EF9 /* SceneDelegate.swift */,
 				CE334B712BF64728009E1EF9 /* ViewController.swift */,
+				CE54DB3A2BFF80A8005C20D6 /* DetailViewController.swift */,
 				CE334B732BF64728009E1EF9 /* Main.storyboard */,
 				CE334B762BF6472B009E1EF9 /* Assets.xcassets */,
 				CE334B782BF6472B009E1EF9 /* LaunchScreen.storyboard */,
@@ -189,6 +192,7 @@
 				CE334B722BF64728009E1EF9 /* ViewController.swift in Sources */,
 				CE334B6E2BF64728009E1EF9 /* AppDelegate.swift in Sources */,
 				CE334B702BF64728009E1EF9 /* SceneDelegate.swift in Sources */,
+				CE54DB3B2BFF80A8005C20D6 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
